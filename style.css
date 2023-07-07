@@ -1,0 +1,151 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    padding: 45px;
+    background-color: #1F2937;
+    
+
+
+}
+a{
+    text-decoration: none;
+    margin: 15px;
+}
+
+.main_par{
+    display: flex;
+    width: auto;
+    flex-direction:column;
+    padding: 80px; 
+    background-color: #1F2937;  
+    
+}
+
+.dabne{
+ width: 7em;
+ background-color: #3882F6;
+ height: 2em;
+ border-radius: 10px;
+ border-color: #F9FAF8;
+ 
+ 
+}
+.maha{
+width: auto;
+height: auto;
+margin: auto;
+margin-right: 100px;
+margin-top: -150px ;
+
+}
+
+.secondary{
+display: flex;
+margin: 150px;
+padding: 50px;
+justify-content: space-evenly;
+text-align: center;
+font-size: 25px;
+}
+
+.tasbir{
+    height: 200px;
+    width: 200px;
+    
+}
+
+.info{
+    text-align: center;
+    margin: 100px;
+    font-size: 40px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote{
+    text-align: center;
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    margin-top: -100px;
+    padding: 20px;
+    background-color: #E5E7EB;
+    font-size: 30px;
+    color: #1F2937;
+}
+
+.help{
+    height: 250px;
+   justify-content: center;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin: 20px;
+    padding: 30px;
+    
+}
+
+footer{
+    text-align: center;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    font-size: 30px;
+    color: #F9FAF8;
+    
+    
+}
+
+.box{
+display: flex;
+justify-content: center;
+align-items: center;
+width: 800px;
+gap: 80px;
+background-color: #3882F6;
+border-radius: 15px;
+color: white;
+font-size: 20px;
+}
+
+.hora{
+    height: 40px;
+    width: 80px;
+    background-color: #3882F6;
+    margin-top: 20px;
+    color: #E5E7EB;
+    border-radius: 10px;
+    border-color: #F9FAF8;
+    font-size: 16px;
+    flex-shrink: 1;
+}
+
+.website{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+
+}
+.sanskrit,a{
+  font-size: 24px;
+  color: #E5E7EB;
+}
+
+.logo{
+    font-size: 30px;
+    color: #F9FAF8;
+}
+.vish{
+    display: flex;
+}
